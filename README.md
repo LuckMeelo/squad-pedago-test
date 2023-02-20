@@ -1,3 +1,0 @@
-# squad-pedago-test
-
-new
